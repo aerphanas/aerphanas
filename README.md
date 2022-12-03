@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @aerphanas
 - 👀 I’m interested in Free Opensource Software
-- 🌱 I’m currently learning Haskell Functional Programming
+- 🌱 I’m currently interested in FP paradigm and ML programming language family 
 - 📫 muhamadaviv14@gmail.com
+- 🐘 [@aerphanas@fosstodon.org](https://fosstodon.org/@aerphanas)
 <!-- 💞️ I’m looking to collaborate on interesting app -->
 
 
