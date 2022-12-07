@@ -8,10 +8,10 @@
   │         ,,,,,,,,       ,,,,,,,,         │                         ║ aerphanas@github ║
   │         ,,,,,,,,       ,,,,,,,,         │  ╔══════════════════════╩══════════════════╩══════════════════════╗ 
   │         ,,,,,,,,       ,,,,,,,,         │  ║ Full Name      ≡  "Muhammad Aviv Burhanudin"                   ║ 
-  │         ,,,,,,,,       ,,,,,,,,         │  ║ Description    ≡  "Linux Sys-Admin, Dev-Ops, Software Engineer"║ 
+  │         ,,,,,,,,       ,,,,,,,,         │  ║ Description    ≡  "Open Source Enthusiast"                     ║ 
   │         ,,,,,,,,       ,,,,,,,,         │  ║ Favorite Quote ≡  "Sometimes I Dont Know The"                  ║ 
   │         ,,,,,,,,       ,,,,,,,,         │  ║                   "True Reason Behind My Choices"              ║ 
-  │         ,,,,,,,,       ,,,,,,,,         │  ║ Age            ≡  22                                           ║ 
+  │         ,,,,,,,,       ,,,,,,,,         │  ║ Age            ≡  "22"                                         ║ 
   │         ,,,,,,,,       ,,,,,,,,         │  ║ Gender         ≡  "Male"                                       ║ 
   │         ,,,,,,,,       ,,,,,,,,         │  ║ Twitter        ≡  "@aerphanas"                                 ║ 
   │                                         │  ║ Email          ≡  "muhamadaviv14@gmail.com"                    ║ 
