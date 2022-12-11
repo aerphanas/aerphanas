@@ -19,5 +19,4 @@ jobs:
           SHOW_SHORT_INFO: "True"
           SHOW_LANGUAGE: "True"
           SHOW_PROFILE_VIEWS: "True"
-          LOCALE: "in_ID"
           
