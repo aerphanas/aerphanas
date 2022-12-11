@@ -20,5 +20,5 @@ jobs:
           SHOW_SHORT_INFO: "True"
           SHOW_LANGUAGE: "True"
           SHOW_PROFILE_VIEWS: "True"
-          SHOW_LOC_CHART: "False"
+          SHOW_LOC_CHART: "False" #see issue 337
           
