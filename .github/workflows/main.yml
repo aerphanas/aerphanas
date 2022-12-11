@@ -20,7 +20,7 @@ jobs:
           SHOW_EDITORS: "True"
           SHOW_LANGUAGE: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
-          LOCALE: "id"
+          #LOCALE: "id"
           SHOW_SHORT_INFO: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_TOTAL_CODE_TIME: "False"
