@@ -21,6 +21,8 @@ jobs:
           SHOW_LANGUAGE: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_SHORT_INFO: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_TOTAL_CODE_TIME: "False"
           SYMBOL_VERSION: 2
           SHOW_LOC_CHART: "False" #see issue 337
           
