@@ -25,10 +25,6 @@
 `````
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 **I Mostly Code in C++** 
 
 ```text
@@ -42,5 +38,5 @@ Dockerfile               2 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 11/12/2022 12:27:05 UTC
+ Last Updated on 11/12/2022 12:31:09 UTC
 <!--END_SECTION:waka-->
