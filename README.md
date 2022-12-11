@@ -25,7 +25,7 @@
 `````
 
 <!--START_SECTION:waka-->
-**I Mostly Code in C++** 
+**Kebanyakan menulis dalam bahasa C++** 
 
 ```text
 C++                      3 repos             ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.65% 
@@ -38,5 +38,5 @@ Dockerfile               2 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 11/12/2022 12:31:09 UTC
+ Last Updated on 11/12/2022 12:45:16 UTC
 <!--END_SECTION:waka-->
