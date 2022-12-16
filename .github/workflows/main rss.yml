@@ -1,0 +1,15 @@
+name: Update this repo's README
+
+on:
+  schedule:
+    # Runs at 00:00AM UTC
+    - cron: '0 0 * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://aerphanas.github.io/atom.xml
+          readme-section: feed
