@@ -26,6 +26,7 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_TOTAL_CODE_TIME: "False"
           SYMBOL_VERSION: 2
+          SHOW_UPDATED_DATE: "False"
           UPDATED_DATE_FORMAT: "%b %d, %Y"
           SHOW_LOC_CHART: "False" #see issue 337
           
