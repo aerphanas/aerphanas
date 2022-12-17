@@ -1,4 +1,4 @@
-name: Update this repo's README
+name: update rss blog to readme
 
 on:
   workflow_dispatch:
