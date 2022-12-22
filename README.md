@@ -92,9 +92,9 @@ HTML                     2 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 **Blog Posts**
 
 <!--START_SECTION:feed-->
+* [Kontribusi Open Source Software](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2022-12-21-Kontribusi_Open_Source_Software.html)
 * [Linux Filesystem, Btrfs](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2022-12-13-Linux_Filesystem%2C_Btrfs.html)
 * [Linux Filesystem, keluarga extfs](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2022-12-08-Linux_Filesystem%2C_keluarga_extfs.html)
 * [Melatih Algoritma](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2022-12-04-Melatih_Algoritma.html)
 * [Linux Container](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2022-11-08-Linux_Container.html)
-* [Linux Hi-Res Audio](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2022-10-29-Linux_Hi-Res_Audio.html)
 <!--END_SECTION:feed-->
