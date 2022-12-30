@@ -5,21 +5,21 @@
 ~ λ █ gitfetch --description=full --syle=fashionable --user=aerphanas --password=***************
 
   ┌─────────────────────────────────────────┐                         ╔══════════════════╗
-  │         ,,,,,,,,       ,,,,,,,,         │                         ║ aerphanas@github ║
-  │         ,,,,,,,,       ,,,,,,,,         │  ╔══════════════════════╩══════════════════╩══════════════════════╗ 
-  │         ,,,,,,,,       ,,,,,,,,         │  ║ Full Name      ≡  "Muhammad Aviv Burhanudin"                   ║ 
-  │         ,,,,,,,,       ,,,,,,,,         │  ║ Description    ≡  "Open Source Enthusiast"                     ║ 
-  │         ,,,,,,,,       ,,,,,,,,         │  ║ Favorite Quote ≡  "Sometimes I Dont Know The"                  ║ 
-  │         ,,,,,,,,       ,,,,,,,,         │  ║                   "True Reason Behind My Choices"              ║ 
-  │         ,,,,,,,,       ,,,,,,,,         │  ║ Age            ≡  "22"                                         ║ 
-  │         ,,,,,,,,       ,,,,,,,,         │  ║ Gender         ≡  "Male"                                       ║ 
-  │         ,,,,,,,,       ,,,,,,,,         │  ║ Twitter        ≡  "@aerphanas"                                 ║ 
-  │                                         │  ║ Email          ≡  "muhamadaviv14@gmail.com"                    ║ 
-  │                                         │  ║ Main OS        ≡  "GNU/LINUX"                                  ║ 
-  │                                         │  ║ Main Distro    ≡  "NixOS"                                      ║ 
-  │ ,,,,,,,,,,,,,,,,       ,,,,,,,,,,,,,,,, │  ║ Kernel         ≡  "Linux"                                      ║ 
-  │ ,,,,,,,,,,,,,,,,       ,,,,,,,,,,,,,,,, │  ║ DE             ≡  "GNOME"                                      ║ 
-  │ ,,,,,,,,,,,,,,,,       ,,,,,,,,,,,,,,,, │  ║ Resolution     ≡  "Keep Learning And Stay Humble"              ║ 
+  │                                         │                         ║ aerphanas@github ║
+  │                                         │  ╔══════════════════════╩══════════════════╩══════════════════════╗ 
+  │                                         │  ║ Full Name      ≡  "Muhammad Aviv Burhanudin"                   ║ 
+  │                                         │  ║ Description    ≡  "Open Source Enthusiast"                     ║ 
+  │      _______\)%%%%%%%%._                │  ║ Favorite Quote ≡  "Sometimes I Dont Know The"                  ║ 
+  │     `''''-'-;   % % % % %'-._           │  ║                   "True Reason Behind My Choices"              ║ 
+  │             :b) \            '-.        │  ║ Age            ≡  "22"                                         ║ 
+  │             : :__)'    .'    .'         │  ║ Gender         ≡  "Male"                                       ║ 
+  │             :.::/  '.'   .'             │  ║ Twitter        ≡  "@aerphanas"                                 ║ 
+  │             o_i/   :    ;               │  ║ Email          ≡  "muhamadaviv14@gmail.com"                    ║ 
+  │                    :   .'               │  ║ Main OS        ≡  "GNU/LINUX"                                  ║ 
+  │                     ''`                 │  ║ Main Distro    ≡  "NixOS"                                      ║ 
+  │                                         │  ║ Kernel         ≡  "Linux"                                      ║ 
+  │            MAGICAL  CREATURE            │  ║ DE             ≡  "GNOME"                                      ║ 
+  │                                         │  ║ Resolution     ≡  "Keep Learning And Stay Humble"              ║ 
   └─────────────────────────────────────────┘  ╚════════════════════════════════════════════════════════════════╝ 
   
 `````
