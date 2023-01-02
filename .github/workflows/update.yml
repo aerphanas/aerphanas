@@ -29,7 +29,6 @@ jobs:
           SHOW_UPDATED_DATE: "False"
           UPDATED_DATE_FORMAT: "%b %d, %Y"
           SHOW_LOC_CHART: "False" #see issue 337
-          COMMIT_BY_ME: "True"
           SHOW_COMMIT: "False"
           
   update-rss:
