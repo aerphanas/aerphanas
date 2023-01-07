@@ -70,9 +70,9 @@ HTML                     2 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 **Blog Posts**
 
 <!--START_SECTION:feed-->
+* [Ada Apa Dengan Paradigma Fungsional](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2023-01-06-Ada_Apa_Dengan_Fungsional_Programming.html)
 * [Post Ini Dibuat oleh ChatGPT](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2022-12-22-Post_Ini_Dibuat_oleh_ChatGPT.html)
 * [Kontribusi Open Source Software](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2022-12-21-Kontribusi_Open_Source_Software.html)
 * [Linux Filesystem, Btrfs](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2022-12-13-Linux_Filesystem%2C_Btrfs.html)
 * [Linux Filesystem, keluarga extfs](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2022-12-08-Linux_Filesystem%2C_keluarga_extfs.html)
-* [Melatih Algoritma](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2022-12-04-Melatih_Algoritma.html)
 <!--END_SECTION:feed-->
