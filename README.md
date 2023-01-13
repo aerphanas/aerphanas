@@ -63,6 +63,10 @@ JavaScript               2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/aerphanas/aerphanas/main/charts/bar_graph.png) 
+
 
 <!--END_SECTION:waka-->
 
