@@ -28,7 +28,7 @@ jobs:
           SYMBOL_VERSION: 2
           SHOW_UPDATED_DATE: "False"
           UPDATED_DATE_FORMAT: "%b %d, %Y"
-          SHOW_LOC_CHART: "False" #see issue 337
+          SHOW_LOC_CHART: "True" #see issue 337
           SHOW_COMMIT: "False"
           
   update-rss:
