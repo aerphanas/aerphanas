@@ -37,18 +37,18 @@
   :::         ⠀⢠⣿⣿⣿⡿⠀⠀⠀⠀⠀⢿⣿⣿⣷⣤⡄     :::       :::      
     :::       ⢀⣾⣿⣿⣿⠁⠀⠀⠀⠀⠀⠈⠿⣿⣿⣿⡇       :::     :        
                                                                                          
-#|                         ╔═════════════════════════════════════════════════════════════════════════╗     mm     |#
-#|                         ║ |# (define name "Muhammad Aviv Burhanudin")                          #| ║      *@@   |#
-#|                         ║ |# (define twitter "@aerphanas")                                     #| ║        @@  |#
-#|                         ║ |# (define email "muhamadaviv14@gmail.com")                          #| ║        *@@ |#
-#|                         ║ |# (define gender "Male")                                            #| ║         @@ |#
-#|                         ║ |# (printf "Hi My Name is ~a, a Σ~a, if you need me you" name gender)#| ║         @@ |#
-#|                         ║ |# (printf "can contact me via email : ~v" email)                    #| ║         !@ |#
-#|                         ║ |# (printf "or dm me on twitter : ~v \n" twitter)                    #| ║         !! |#
-#|                         ║ |# (printf "When there’s a will to fail, obstacles can be found.")   #| ║        !!! |#
-#|                         ╚═════════════════════════════════════════════════════════════════════════╝        :   |#
-#|                                                                                                          :::   |# 
-#|                                                                                                          :     |#
+#|                       ╔═════════════════════════════════════════════════════════════════════════╗     mm     |#
+#|                       ║ |# (define name "Muhammad Aviv Burhanudin")                          #| ║      *@@   |#
+#|                       ║ |# (define twitter "@aerphanas")                                     #| ║        @@  |#
+#|                       ║ |# (define email "muhamadaviv14@gmail.com")                          #| ║        *@@ |#
+#|                       ║ |# (define gender "Male")                                            #| ║         @@ |#
+#|                       ║ |# (printf "Hi My Name is ~a, a Σ~a, if you need me you" name gender)#| ║         @@ |#
+#|                       ║ |# (printf "can contact me via email : ~v" email)                    #| ║         !@ |#
+#|                       ║ |# (printf "or dm me on twitter : ~v \n" twitter)                    #| ║         !! |#
+#|                       ║ |# (printf "When there’s a will to fail, obstacles can be found.")   #| ║        !!! |#
+#|                       ╚═════════════════════════════════════════════════════════════════════════╝        :   |#
+#|                                                                                                        :::   |# 
+#|                                                                                                        :     |#
 ```
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On**
