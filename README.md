@@ -99,11 +99,11 @@ Nix                      2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 **Blog Posts**
 
 <!--START_SECTION:feed-->
+* [Alternatif Docker - Podman Pod](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2023-02-05-Alternatif_Docker_-_Podman_Pod.html)
 * [Perkenalan Dengan Git VCS](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2023-01-29-Perkenalan-Dengan-Git-VCS.html)
 * [Linux Chroot](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2023-01-22-Linux_Chroot.html)
 * [Ada Apa Dengan Paradigma Fungsional](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2023-01-06-Ada_Apa_Dengan_Fungsional_Programming.html)
 * [Post Ini Dibuat oleh ChatGPT](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2022-12-22-Post_Ini_Dibuat_oleh_ChatGPT.html)
-* [Kontribusi Open Source Software](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2022-12-21-Kontribusi_Open_Source_Software.html)
 <!--END_SECTION:feed-->
 
 ![euler](https://projecteuler.net/profile/aerphanas.png)
