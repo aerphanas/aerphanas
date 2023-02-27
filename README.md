@@ -22,7 +22,6 @@
   │                                         │  
   └─────────────────────────────────────────┘  
 `````
--->
 ```racket
 ;     mm                                  mm     mm           
 ;   @@*           ⢀⣤⣤⣤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀    @@*       *@@     
@@ -50,6 +49,45 @@
 #|                                                                                                        :::   |# 
 #|                                                                                                        :     |#
 ```
+-->
+
+```c
+#include <stdio.h>
+#include <string.h>
+
+struct
+People
+{
+    char name[50];
+    char twitter[20];
+    char email[30];
+    char gender[2];
+};
+
+int
+main()
+{
+    struct People myself = {0};
+    strncpy(myself.name, "Muhammad Aviv Burhanudin", sizeof(myself.name) - 1);
+    strncpy(myself.email, "muhamadaviv14@gmail.com", sizeof(myself.email) - 1);
+    strncpy(myself.twitter, "aerphanas", sizeof(myself.twitter) - 1);
+    strncpy(myself.gender, "M", sizeof(myself.gender) - 1);
+
+    if (strchr(myself.email, '@') == NULL || strchr(myself.email, '.') == NULL)
+    {
+        printf("Invalid email format!\n");
+        return 1;
+    }
+
+    printf("Name: %s\n", myself.name);
+    printf("Email: %s\n", myself.email);
+    printf("Twitter: %s\n", myself.twitter);
+    printf("Gender: %s\n", myself.gender);
+
+    return 0;
+}
+```
+
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
