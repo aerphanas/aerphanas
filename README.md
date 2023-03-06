@@ -140,4 +140,14 @@ Racket                   2 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 * [Linux Chroot](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2023-01-22-Linux_Chroot.html)
 <!--END_SECTION:feed-->
 
+**List of programming languages that I currently enjoy**
+
+* C (Low Level and Fastest Language)
+* D (C++ Redesign that i like)
+* Haskell (Pure Function, Cool Monad)
+* Nim (Good syntax, System Programming, GC King)
+* Java (Enterprise $)
+* Racket (Lisp !!)
+* Elm (No Runtime Error)
+
 ![euler](https://projecteuler.net/profile/aerphanas.png)
