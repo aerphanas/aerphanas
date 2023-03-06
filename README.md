@@ -147,7 +147,7 @@ Racket                   2 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 * Haskell (Pure Function, Cool Monad)
 * Nim (Good syntax, System Programming, GC King)
 * Java (Enterprise $)
-* Racket (Lisp !!)
+* Racket (Good Documentation, Language-Oriented Programming Language)
 * Elm (No Runtime Error)
 
 ![euler](https://projecteuler.net/profile/aerphanas.png)
