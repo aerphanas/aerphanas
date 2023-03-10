@@ -49,7 +49,6 @@
 #|                                                                                                        :::   |# 
 #|                                                                                                        :     |#
 ```
--->
 
 ```c
 #include <stdio.h>
@@ -86,6 +85,23 @@ main()
 
     return 0;
 }
+```
+-->
+
+```nim
+type People = object
+  name: string
+  email: string
+  twitter: string
+  gender: char
+
+var aerphanas: People = People()
+aerphanas.name = "Muhammad Aviv Burhanudin"
+aerphanas.email = "muhamadaviv14@gmail.com"
+aerphanas.twitter = "aerphanas"
+aerphanas.gender = 'M'
+
+echo aerphanas
 ```
 
 <!--START_SECTION:waka-->
