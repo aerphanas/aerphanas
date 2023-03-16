@@ -165,6 +165,7 @@ D                        1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 * Nim (Good syntax, System Programming, GC King)
 * Java (Enterprise $)
 * Racket (Good Documentation, Language-Oriented Programming Language)
+* Rust (Fast & Safe)
 * Elm (No Runtime Error)
 
 ![euler](https://projecteuler.net/profile/aerphanas.png)
