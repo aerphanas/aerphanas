@@ -86,7 +86,7 @@ main()
     return 0;
 }
 ```
--->
+
 
 ```nim
 type People = object
@@ -103,6 +103,7 @@ aerphanas.gender = 'M'
 
 echo aerphanas
 ```
+-->
 
 <!--START_SECTION:waka-->
 📅 **I'm Most Productive on Tuesday** 
