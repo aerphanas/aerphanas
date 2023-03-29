@@ -104,6 +104,15 @@ aerphanas.gender = 'M'
 echo aerphanas
 ```
 -->
+<p align='center'>
+  <a href="https://rustacean.net/">
+    <img height="200" src="https://rustacean.net/assets/rustacean-flat-gesture.svg">
+  </a>&nbsp;&nbsp;
+</p>
+
+<h1 align="center">
+  <b>Hi Rustacean</b>
+</h1>
 
 <!--START_SECTION:waka-->
 📅 **I'm Most Productive on Tuesday** 
