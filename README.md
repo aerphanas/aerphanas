@@ -111,14 +111,24 @@ echo aerphanas
 </p>
 
 <h1 align="center">
-  <b>Hi i am Aerphanas </b>
+  <b>Hi Aerphanas Here </b>
   <img src="https://media.tenor.com/WpAmPZhRoDUAAAAi/crab-rave.gif" width="40">
 </h1>
 
 - I love making open source software and helping others 
 - I have been using GNU/Linux since 2017 and have extensive experience with installation and troubleshooting.
 - I am also proficient in several programming languages, with a current focus on Rust 🦀, Nim 👑 & Java ☕ .
+- Programming languages that I currently enjoy :
+  - C (Low Level and Fastest Language)
+  - D (C++ Redesign that i like)
+  - Haskell (Pure Function, Cool Monad)
+  - Nim (Good syntax, System Programming, GC King)
+  - Java (Enterprise $)
+  - Racket (Good Documentation, Language-Oriented Programming Language)
+  - Rust (Fast & Safe, Nice Community)
+  - Elm (No Runtime Error)
 
+---
 
 <!--START_SECTION:waka-->
 📅 **I'm Most Productive on Tuesday** 
@@ -185,16 +195,5 @@ D                        1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 * [Install Software dari AUR](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2023-02-15-Install_Software_dari_AUR.html)
 * [Alternatif Docker - Podman Pod](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2023-02-05-Alternatif_Docker_-_Podman_Pod.html)
 <!--END_SECTION:feed-->
-
-**List of programming languages that I currently enjoy**
-
-* C (Low Level and Fastest Language)
-* D (C++ Redesign that i like)
-* Haskell (Pure Function, Cool Monad)
-* Nim (Good syntax, System Programming, GC King)
-* Java (Enterprise $)
-* Racket (Good Documentation, Language-Oriented Programming Language)
-* Rust (Fast & Safe)
-* Elm (No Runtime Error)
 
 ![euler](https://projecteuler.net/profile/aerphanas.png)
