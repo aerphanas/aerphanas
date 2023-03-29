@@ -111,8 +111,14 @@ echo aerphanas
 </p>
 
 <h1 align="center">
-  <b>Hi Rustacean</b>
+  <b>Hi i am Aerphanas </b>
+  <img src="https://media.tenor.com/WpAmPZhRoDUAAAAi/crab-rave.gif" width="40">
 </h1>
+
+- I love making open source software and helping others 
+- I have been using GNU/Linux since 2017 and have extensive experience with installation and troubleshooting.
+- I am also proficient in several programming languages, with a current focus on Rust 🦀, Nim 👑 & Java ☕ .
+
 
 <!--START_SECTION:waka-->
 📅 **I'm Most Productive on Tuesday** 
