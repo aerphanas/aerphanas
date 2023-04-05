@@ -127,6 +127,7 @@ echo aerphanas
   - Racket (Good Documentation, Language-Oriented Programming Language)
   - Rust (Fast & Safe, Nice Community)
   - Elm (No Runtime Error)
+  - Lisp (Shhh..., it's My Secret Weapon)
 
 ---
 
