@@ -117,7 +117,7 @@ echo aerphanas
 
 - I love making open source software and helping others 
 - I have been using GNU/Linux since 2017 and have extensive experience with installation and troubleshooting.
-- I am also proficient in several programming languages, with a current focus on Rust 🦀, Nim 👑 & Java ☕ .
+- I am also proficient in several programming languages, with a current focus on Rust 🦀, Common Lisp (🌏) & Java ☕ .
 - Programming languages that I currently enjoy :
   - C (Low Level and Fastest Language)
   - D (C++ Redesign that i like)
