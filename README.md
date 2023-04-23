@@ -104,6 +104,7 @@ aerphanas.gender = 'M'
 echo aerphanas
 ```
 -->
+<!--
 <p align='center'>
   <a href="https://rustacean.net/">
     <img height="200" src="https://rustacean.net/assets/rustacean-flat-gesture.svg">
@@ -114,7 +115,7 @@ echo aerphanas
   <b>Hi Aerphanas Here </b>
   <img src="https://media.tenor.com/WpAmPZhRoDUAAAAi/crab-rave.gif" width="40">
 </h1>
-
+-->
 - I love making open source software and helping others 
 - I have been using GNU/Linux since 2017 and have extensive experience with installation and troubleshooting.
 - I am also proficient in several programming languages, with a current focus on Rust 🦀, (λx.x)Haskell & Java ☕ .
