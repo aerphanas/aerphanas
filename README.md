@@ -117,17 +117,17 @@ echo aerphanas
 
 - I love making open source software and helping others 
 - I have been using GNU/Linux since 2017 and have extensive experience with installation and troubleshooting.
-- I am also proficient in several programming languages, with a current focus on Rust 🦀, Common Lisp (🌏) & Java ☕ .
+- I am also proficient in several programming languages, with a current focus on Rust 🦀, (λx.x)Haskell & Java ☕ .
 - Programming languages that I currently enjoy :
   - C (Low Level and Fastest Language)
   - D (C++ Redesign that i like)
-  - Haskell (Pure Function, Cool Monad)
+  - Haskell (Pure Function Lambda Calculus base, Turing Complete)
   - Nim (Good syntax, System Programming, GC King)
   - Java (Enterprise $)
   - Racket (Good Documentation, Language-Oriented Programming Language)
   - Rust (Fast & Safe, Nice Community)
   - Elm (No Runtime Error)
-  - Common LISP
+  - Common LISP (OG AI Programming Language)
 
 ---
 
