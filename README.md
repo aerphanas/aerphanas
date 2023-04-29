@@ -129,6 +129,7 @@ echo aerphanas
   - Rust (Fast & Safe, Nice Community)
   - Elm (No Runtime Error)
   - Common LISP (OG AI Programming Language)
+  - Scheme (Clean version of Common Lisp)
 
 **Blog Posts**
 
