@@ -134,11 +134,11 @@ echo aerphanas
 **Blog Posts**
 
 <!--START_SECTION:feed-->
+* [Menambahkan Aplikasi Launcher di App Menu](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2023-05-08-Menambahhan_Aplikasi_Launcher_di_App_Menu.html)
 * [Membuat Graphic 2D Dengan Cairo](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2023-05-03-Membuat_Graphic_2D_Dengan_Cairo.html)
 * [Produktif Bersama Gnome Desktop Environment](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2023-04-13-Produktif_Bersama_Gnome_Desktop_Environment.html)
 * [Memori Manajemen C dan C++](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2023-03-31-Memori_Manajemen_C_dan_CPP.html)
 * [Tail Recursion](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2023-03-18-Tail_Recursion.html)
-* [Apa itu Monad](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2023-03-12-Apa_Itu_Monad.html)
 <!--END_SECTION:feed-->
 
 ![euler](https://projecteuler.net/profile/aerphanas.png)
