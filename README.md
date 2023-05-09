@@ -130,6 +130,7 @@ echo aerphanas
   - Elm (No Runtime Error)
   - Common LISP (OG AI Programming Language)
   - Scheme (Clean version of Common Lisp)
+  - Pharo (Smalltalk implementation, Pure Object Oriented, great IDE)
 
 **Blog Posts**
 
