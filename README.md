@@ -1,121 +1,4 @@
-<!--```javascript
-🐧                                           GitTerm - aerphanas:master                                     ─ ■ X 
-```
-```haskell
-~ λ █ gitfetch --description=full --syle=fashionable --user=aerphanas --password=***************
-
-  ┌─────────────────────────────────────────┐  
-  │                                         │  
-  │                                         │  
-  │                                         │  
-  │                                         │  
-  │      _______\)%%%%%%%%._                │  
-  │     `''''-'-;   % % % % %'-._           │  
-  │             :b) \            '-.        │  
-  │             : :__)'    .'    .'         │  
-  │             :.::/  '.'   .'             │  
-  │             o_i/   :    ;               │  
-  │                    :   .'               │  
-  │                     ''`                 │  
-  │                                         │  
-  │            MAGICAL  CREATURE            │  
-  │                                         │  
-  └─────────────────────────────────────────┘  
-`````
-```racket
-;     mm                                  mm     mm           
-;   @@*           ⢀⣤⣤⣤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀    @@*       *@@     
-;  @@          ⠀⠀⢸⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀    @@           @@    
-; @@*          ⠀⠀⠘⠉⠉⠙⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀   @@*           *@@   
-; @@           ⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀   @@             @@   
-; @@           ⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀   @@             @@   
-;!@m           ⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀  !@m             !@   
-; !@           ⠀⠀⠀⠀⣴⣿⣿⣿⠟⣿⣿⣿⣷⠀⠀⠀⠀   !@             !!   
-; !!!          ⠀⠀⠀⣰⣿⣿⣿⡏⠀⠸⣿⣿⣿⣇⠀⠀⠀   !!!           !!!   
-;  :           ⠀⠀⢠⣿⣿⣿⡟⠀⠀⠀⢻⣿⣿⣿⡆⠀⠀     :           :     
-;  :::         ⠀⢠⣿⣿⣿⡿⠀⠀⠀⠀⠀⢿⣿⣿⣷⣤⡄     :::       :::      
-;    :::       ⢀⣾⣿⣿⣿⠁⠀⠀⠀⠀⠀⠈⠿⣿⣿⣿⡇       :::     :        
-;                                                                                         
-#|                       ╔═════════════════════════════════════════════════════════════════════════╗     mm     |#
-#|                       ║ |# (define name "Muhammad Aviv Burhanudin")                          #| ║      *@@   |#
-#|                       ║ |# (define twitter "@aerphanas")                                     #| ║        @@  |#
-#|                       ║ |# (define email "muhamadaviv14@gmail.com")                          #| ║        *@@ |#
-#|                       ║ |# (define gender "Male")                                            #| ║         @@ |#
-#|                       ║ |# (printf "Hi My Name is ~a, a Σ~a, if you need me you" name gender)#| ║         @@ |#
-#|                       ║ |# (printf "can contact me via email : ~v" email)                    #| ║         !@ |#
-#|                       ║ |# (printf "or dm me on twitter : ~v \n" twitter)                    #| ║         !! |#
-#|                       ║ |# (printf "When there’s a will to fail, obstacles can be found.")   #| ║        !!! |#
-#|                       ╚═════════════════════════════════════════════════════════════════════════╝        :   |#
-#|                                                                                                        :::   |# 
-#|                                                                                                        :     |#
-```
-
-```c
-#include <stdio.h>
-#include <string.h>
-
-struct
-People
-{
-    char name[50];
-    char twitter[20];
-    char email[30];
-    char gender[2];
-};
-
-int
-main()
-{
-    struct People myself = {0};
-    strncpy(myself.name, "Muhammad Aviv Burhanudin", sizeof(myself.name) - 1);
-    strncpy(myself.email, "muhamadaviv14@gmail.com", sizeof(myself.email) - 1);
-    strncpy(myself.twitter, "aerphanas", sizeof(myself.twitter) - 1);
-    strncpy(myself.gender, "M", sizeof(myself.gender) - 1);
-
-    if (strchr(myself.email, '@') == NULL || strchr(myself.email, '.') == NULL)
-    {
-        printf("Invalid email format!\n");
-        return 1;
-    }
-
-    printf("Name: %s\n", myself.name);
-    printf("Email: %s\n", myself.email);
-    printf("Twitter: %s\n", myself.twitter);
-    printf("Gender: %s\n", myself.gender);
-
-    return 0;
-}
-```
-
-
-```nim
-type People = object
-  name: string
-  email: string
-  twitter: string
-  gender: char
-
-var aerphanas: People = People()
-aerphanas.name = "Muhammad Aviv Burhanudin"
-aerphanas.email = "muhamadaviv14@gmail.com"
-aerphanas.twitter = "aerphanas"
-aerphanas.gender = 'M'
-
-echo aerphanas
-```
--->
 <!--
-<p align='center'>
-  <a href="https://rustacean.net/">
-    <img height="200" src="https://rustacean.net/assets/rustacean-flat-gesture.svg">
-  </a>&nbsp;&nbsp;
-</p>
-
-<h1 align="center">
-  <b>Hi Aerphanas Here </b>
-  <img src="https://media.tenor.com/WpAmPZhRoDUAAAAi/crab-rave.gif" width="40">
-</h1>
--->
 - I love making open source software and helping others 
 - I have been using GNU/Linux since 2017 and have extensive experience with installation and troubleshooting.
 - I am also proficient in several programming languages, with a current focus on Rust, Haskell, Common Lisp, Scheme & Java.
@@ -131,6 +14,34 @@ echo aerphanas
   - Common LISP (OG AI Programming Language, CLOS)
   - Scheme (Clean version of Common Lisp)
   - Pharo (Modern Smalltalk implementation, Pure Object Oriented, great IDE)
+
+-->
+
+```lisp
+(defclass programmer ()
+  ((passion :accessor passion-of
+	    :initarg :passion
+	    :initform 'open-source-software)
+   (linux-exp :accessor linux-exp-of
+	      :initarg :linux-exp
+	      :initform 2017)
+   (langs :accessor langs-of
+	  :initarg :langs
+	  :initform '(rust haskell common-lisp scheme java))
+   (fav-langs :accessor fav-langs-of
+	      :initarg :fav-langs
+	      :initform '((c :type low-level-fast)
+			  (d :type cpp-redesign)
+			  (haskell :type pure-lambda-turing-complete)
+			  (nim :type system-programming :gc 'gc-king)
+			  (java :type enterprise)
+			  (racket :type language-oriented-programming :docs 'excellent)
+			  (rust :type fast-secure :community 'supportive)
+			  (elm :type no-runtime-error)
+			  (common-lisp :type og-ai :clos t)
+			  (scheme :type clean-common-lisp)
+			  (pharo :type modern-smalltalk :oo 'pure :ide 'excellent)))))
+```
 
 **Blog Posts**
 
