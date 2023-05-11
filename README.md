@@ -128,9 +128,9 @@ echo aerphanas
   - Racket (Good Documentation, Language-Oriented Programming Language)
   - Rust (Fast & Safe, Nice Community)
   - Elm (No Runtime Error)
-  - Common LISP (OG AI Programming Language)
+  - Common LISP (OG AI Programming Language, CLOS)
   - Scheme (Clean version of Common Lisp)
-  - Pharo (Smalltalk implementation, Pure Object Oriented, great IDE)
+  - Pharo (Modern Smalltalk implementation, Pure Object Oriented, great IDE)
 
 **Blog Posts**
 
