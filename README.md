@@ -46,11 +46,11 @@
 **Blog Posts**
 
 <!--START_SECTION:feed-->
+* [Menerima dan Mengirim Email dengan filosofi UNIX](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2023-06-11-Menerima_dan_Mengirim_Email_dengan_filosofi_UNIX.html)
 * [BCHS Stack, web stack simple yang aman](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2023-06-05-BCHS_Stack%2C_web_stack_simple_yang_aman.html)
 * [Konfigurasi Emacs Untuk Pemula](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2023-05-27-Konfiguras_Emacs_Untuk_Pemula.html)
 * [Membuat GUI GTK dengan gtk-rs](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2023-05-11-Membuat_GUI_GTK_dengan_gtk-rs.html)
 * [Menambahkan Aplikasi Launcher di App Menu](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2023-05-08-Menambahhan_Aplikasi_Launcher_di_App_Menu.html)
-* [Membuat Graphic 2D Dengan Cairo](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2023-05-03-Membuat_Graphic_2D_Dengan_Cairo.html)
 <!--END_SECTION:feed-->
 
 ![euler](https://projecteuler.net/profile/aerphanas.png)
