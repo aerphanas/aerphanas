@@ -1,23 +1,4 @@
-> future projects will be on codeberg, this account will be used if I will contribute to some opensource projects on github, link for my codeberg account [aerphanas](https://codeberg.org/aerphanas/)
-<!--
-- I love making open source software and helping others 
-- I have been using GNU/Linux since 2017 and have extensive experience with installation and troubleshooting.
-- I am also proficient in several programming languages, with a current focus on Rust, Haskell, Common Lisp, Scheme & Java.
-- Programming languages that I currently enjoy :
-  - C (Low Level and Fastest Language)
-  - D (C++ Redesign that i like)
-  - Haskell (Pure Function Lambda Calculus base, Turing Complete)
-  - Nim (Good syntax, System Programming, GC King)
-  - Java (Enterprise $)
-  - Racket (Good Documentation, Language-Oriented Programming Language)
-  - Rust (Fast & Safe, Nice Community)
-  - Elm (No Runtime Error)
-  - Common LISP (OG AI Programming Language, CLOS)
-  - Scheme (Clean version of Common Lisp)
-  - Pharo (Modern Smalltalk implementation, Pure Object Oriented, great IDE)
-
--->
-
+> future projects will be on codeberg, this account will be used if I will contribute to some opensource projects on github.
 ```lisp
 (defclass programmer ()
   ((passion :accessor passion-of
