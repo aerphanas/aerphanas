@@ -34,5 +34,3 @@
 * [Konfigurasi Emacs Untuk Pemula](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2023-05-27-Konfiguras_Emacs_Untuk_Pemula.html)
 * [Membuat GUI GTK dengan gtk-rs](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2023-05-11-Membuat_GUI_GTK_dengan_gtk-rs.html)
 <!--END_SECTION:feed-->
-
-![euler](https://projecteuler.net/profile/aerphanas.png)
