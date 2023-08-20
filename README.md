@@ -28,9 +28,9 @@
 **Blog Posts**
 
 <!--START_SECTION:feed-->
+* [Membuat arsip dengan tar](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2023-08-19-Membuat_Arsip_denga_tar.html)
 * [Memperbaiki Windows Boot EFI](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2023-08-08-Memperbaiki_Windows_Boot_EFI.html)
 * [unveil dan pledge, mitigasi keamanan OpenBSD](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2023-07-01-unveil_dan_pledge%2C_mitigasi_keamanan_OpenBSD.html)
 * [Berinteraksi sesama Fediverse melalui Mastodon](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2023-06-19-Berinteraksi_sesama_Fediverse_melalui_Mastodon.html)
 * [Menerima dan Mengirim Email dengan filosofi UNIX](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2023-06-11-Menerima_dan_Mengirim_Email_dengan_filosofi_UNIX.html)
-* [BCHS Stack, web stack simple yang aman](https:&#x2F;&#x2F;aerphanas.github.io&#x2F;posts&#x2F;2023-06-05-BCHS_Stack%2C_web_stack_simple_yang_aman.html)
 <!--END_SECTION:feed-->
