@@ -1,29 +1,4 @@
 > future projects will be on codeberg, this account will be used if I will contribute to some opensource projects on github.
-```lisp
-(defclass programmer ()
-  ((passion :accessor passion-of
-	    :initarg :passion
-	    :initform 'open-source-software)
-   (linux-exp :accessor linux-exp-of
-	      :initarg :linux-exp
-	      :initform 2017)
-   (langs :accessor langs-of
-	  :initarg :langs
-	  :initform '(rust haskell common-lisp scheme java))
-   (fav-langs :accessor fav-langs-of
-	      :initarg :fav-langs
-	      :initform '((c :type low-level-fast)
-			  (d :type cpp-redesign)
-			  (haskell :type pure-lambda-turing-complete)
-			  (nim :type system-programming :gc 'gc-king)
-			  (java :type enterprise)
-			  (racket :type language-oriented-programming :docs 'excellent)
-			  (rust :type fast-secure :community 'supportive)
-			  (elm :type no-runtime-error)
-			  (common-lisp :type og-ai :clos t)
-			  (scheme :type clean-common-lisp)
-			  (pharo :type modern-smalltalk :oo 'pure :ide 'excellent)))))
-```
 
 **Blog Posts**
 
